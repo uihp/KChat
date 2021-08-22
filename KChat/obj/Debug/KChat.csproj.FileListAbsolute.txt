@@ -1,0 +1,10 @@
+E:\CODE\WS_TPM\KChat\KChat\bin\Debug\KChat.exe.config
+E:\CODE\WS_TPM\KChat\KChat\bin\Debug\KChat.exe
+E:\CODE\WS_TPM\KChat\KChat\bin\Debug\KChat.pdb
+E:\CODE\WS_TPM\KChat\KChat\obj\Debug\KChat.csproj.AssemblyReference.cache
+E:\CODE\WS_TPM\KChat\KChat\obj\Debug\KChat.Form1.resources
+E:\CODE\WS_TPM\KChat\KChat\obj\Debug\KChat.Properties.Resources.resources
+E:\CODE\WS_TPM\KChat\KChat\obj\Debug\KChat.csproj.GenerateResource.cache
+E:\CODE\WS_TPM\KChat\KChat\obj\Debug\KChat.csproj.CoreCompileInputs.cache
+E:\CODE\WS_TPM\KChat\KChat\obj\Debug\KChat.exe
+E:\CODE\WS_TPM\KChat\KChat\obj\Debug\KChat.pdb
