@@ -1,0 +1,14 @@
+E:\CODE\WS_TPM\KChat\KChatClient\bin\Debug\KChat.exe.config
+E:\CODE\WS_TPM\KChat\KChatClient\bin\Debug\KChat.exe
+E:\CODE\WS_TPM\KChat\KChatClient\bin\Debug\KChat.pdb
+E:\CODE\WS_TPM\KChat\KChatClient\bin\Debug\CSharp.dll
+E:\CODE\WS_TPM\KChat\KChatClient\bin\Debug\CSharp.pdb
+E:\CODE\WS_TPM\KChat\KChatClient\bin\Debug\CSharp.dll.config
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChat.Form1.resources
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChat.Properties.Resources.resources
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChatClient.csproj.GenerateResource.cache
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChatClient.csproj.CoreCompileInputs.cache
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChatClient.csproj.CopyComplete
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChat.exe
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChat.pdb
+E:\CODE\WS_TPM\KChat\KChatClient\obj\Debug\KChatClient.csproj.AssemblyReference.cache
